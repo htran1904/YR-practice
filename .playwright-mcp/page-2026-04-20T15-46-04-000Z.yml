@@ -1,0 +1,77 @@
+- generic [ref=e1]:
+  - generic [ref=e3]:
+    - generic [ref=e4]:
+      - generic [ref=e5]:
+        - generic [ref=e6]:
+          - link:
+            - /url: "#"
+        - generic [ref=e10] [cursor=pointer]:
+          - img [ref=e11]
+          - generic [ref=e13]: English
+      - generic [ref=e18]:
+        - text: 
+        - heading "Log in using your social media account" [level=4] [ref=e19]
+        - generic [ref=e21]:
+          - generic [ref=e23] [cursor=pointer]:
+            - img [ref=e24]
+            - text: Facebook
+          - generic [ref=e26] [cursor=pointer]:
+            - img [ref=e27]
+            - text: Google
+        - heading "or log in using your email" [level=5] [ref=e29]
+        - generic [ref=e30]:
+          - generic [ref=e32]: Email
+          - generic [ref=e35]:
+            - textbox "Email address" [active] [ref=e37]
+            - generic [ref=e38]: 
+        - generic [ref=e39]:
+          - generic [ref=e40]:
+            - generic [ref=e42]: Password
+            - link "Reset password" [ref=e43] [cursor=pointer]:
+              - /url: /forgot-password
+          - generic [ref=e46]:
+            - generic [ref=e47]:
+              - textbox "Password" [ref=e48]
+              - img [ref=e49] [cursor=pointer]
+            - text: 
+        - generic [ref=e52]:
+          - checkbox "Remember me for 30 days" [ref=e53]
+          - generic [ref=e54] [cursor=pointer]: Remember me for 30 days
+        - button "Log in" [ref=e55] [cursor=pointer]:
+          - strong [ref=e56]: Log in
+        - paragraph [ref=e59]: Don’t have a Your.Rentals account? Sign up
+        - paragraph [ref=e62]:
+          - generic [ref=e63]:
+            - text: Are you a collaborator? Click
+            - link "here" [ref=e64] [cursor=pointer]:
+              - /url: https://collaborator-dev.your.rentals/login
+            - text: instead
+    - paragraph [ref=e65]:
+      - text: Your.Rentals © 2026. All rights reserved.
+      - link "Privacy policy" [ref=e66] [cursor=pointer]:
+        - /url: http://articles.your.rentals/en/articles/1819152
+      - text: .
+  - generic [ref=e67]:
+    - paragraph [ref=e68]: We respect your privacy
+    - paragraph [ref=e69]:
+      - text: We use cookies to make your interactions with our website more meaningful, remember your settings and improve our services. Read more in our
+      - link "Privacy policy" [ref=e70] [cursor=pointer]:
+        - /url: https://articles.your.rentals/en/articles/1819152
+      - text: .
+    - generic [ref=e71]:
+      - button "Manage cookies" [ref=e72] [cursor=pointer]
+      - generic [ref=e73]:
+        - button "Reject all" [ref=e74] [cursor=pointer]
+        - button "Allow all" [ref=e75] [cursor=pointer]
+  - region "Chat Widget" [ref=e76]:
+    - iframe [ref=e77]:
+      - generic [ref=f4e2]:
+        - generic [ref=f4e6]:
+          - button "Open live chat" [ref=f4e7]:
+            - img "Avatar of Alice" [ref=f4e13]
+            - paragraph [ref=f4e14]: Got any question? I'm happy to help.
+          - button "Close welcome page" [ref=f4e15]:
+            - img [ref=f4e17]
+        - button "Open live chat" [ref=f4e24]:
+          - img [ref=f4e27]
+          - img [ref=f4e34]

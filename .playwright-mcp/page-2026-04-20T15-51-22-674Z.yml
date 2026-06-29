@@ -1,0 +1,18 @@
+- generic [active] [ref=e1]:
+  - generic [ref=e9]:
+    - paragraph [ref=e10]: We respect your privacy
+    - paragraph [ref=e11]:
+      - text: We use cookies to make your interactions with our website more meaningful, remember your settings and improve our services. Read more in our
+      - link "Privacy policy" [ref=e12] [cursor=pointer]:
+        - /url: https://articles.your.rentals/en/articles/1819152
+      - text: .
+    - generic [ref=e13]:
+      - button "Manage cookies" [ref=e14] [cursor=pointer]
+      - generic [ref=e15]:
+        - button "Reject all" [ref=e16] [cursor=pointer]
+        - button "Allow all" [ref=e17] [cursor=pointer]
+  - region "Chat Widget" [ref=e18]:
+    - iframe [ref=e19]:
+      - button "Open live chat" [ref=f53e5]:
+        - img [ref=f53e8]
+        - img [ref=f53e15]

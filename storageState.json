@@ -1,0 +1,444 @@
+{
+  "cookies": [
+    {
+      "name": "INGRESSCOOKIE",
+      "value": "9674610c671357567fd073110034086b|251859cad005b261c753b782958c6316",
+      "domain": "pushtest.your.rentals",
+      "path": "/(.*)",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "lang",
+      "value": "en",
+      "domain": "goto.your.rentals",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "__cf_bm",
+      "value": "PcsndDN0f3vpYKdpgnPeENVWBMvmr89ZgrM8i03GOmM-1782425060.3697228-1.0.1.1-l7H0H9ly8daLV_nXfT0De9QBdn7c.hJ6RgrNaASbFcAFvchPMchFncAR8vLAiK0dYeWuuwuhePxezey5rp9Wl2Fuk5RXIzZfMOXwmJ9c6UpqqYTIJFLN7HuCTTl3SM8_",
+      "domain": ".hs-scripts.com",
+      "path": "/",
+      "expires": 1782426861.241765,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "__cf_bm",
+      "value": "7SEepp4NQQzTNLHCd0s_HP0SyJ0eFZz85rIzH4CC3eg-1782425061.4556847-1.0.1.1-WtzIYlHCQuTwFUQPMpzUmM.aOEKpPkS.mNKScooKdcZpbPJL9l75jkTJOXewyt2.y8nxRKdzD2rCcDSv2nikNwpaQoVDSMVGeqvHbd5ttU2Hkw59lIuwIhhpw8IQNaBE",
+      "domain": ".usemessages.com",
+      "path": "/",
+      "expires": 1782426861.375835,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "__cf_bm",
+      "value": "1wWZOo3NHu7h8cpSac00Ue1WHugdNw66D1nFa7A6uuo-1782425061.4755309-1.0.1.1-2amq7EoGnEt2kkNKeEI7gKopZ0LDUorASqeA9WM4uI47HN47YxmUDjrVFK0vlThwLCZeyiPRO5cZHy6grzouxlFqQdHlvMFiafHmrt5t44af8B5X370Q39cEArAA0Nic",
+      "domain": ".hs-banner.com",
+      "path": "/",
+      "expires": 1782426861.412314,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "__cf_bm",
+      "value": "9Vzse8nYTU53B3_41OpvamxZsBdofA81hGCKpN9Fvns-1782425061.4742641-1.0.1.1-ByLEiz06qmhZ4Zwa7JdeDYF4oWbZl9fMiKI.TYIrfHEyp_I6CcYaFhZZN0zZtxteGWdOjjMdAI5gcKCS5e8wzzgankrlxd2e1oPEy0PNmWGC2a2V6eLY.f8EHJ0qKTWy",
+      "domain": ".hs-analytics.net",
+      "path": "/",
+      "expires": 1782426861.699853,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "__cf_bm",
+      "value": "9U43ttF_64QCZ_gFbcvVaK5Y2JSl9sn.rI9qmms0pCo-1782425061.96226-1.0.1.1-4OGV1L4gEpe1P.Z7AG0tcPJEuqt70hDL8xVfX9_kshqbmQT6bSuwj4mOArosYQB_5xP_gpbsvJLsPlWv8ElFzedsHRzJmBRhQIDW7PxiBjFxTOgTlT2jL0o54TDTc1gj",
+      "domain": ".hsforms.com",
+      "path": "/",
+      "expires": 1782426862.13359,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "__cf_bm",
+      "value": "mfypE7kFsoMmk7gOZPWStOH1tnjtUqI53ZjWvsfyutg-1782425062.4035838-1.0.1.1-D.TpgGe4le8ykQjoRRZmC_454M2D8Cdi4JcMhf8D5qjPgfgGQC9ypOnGaYj9Gh.F_safbD3Ig8xMO1lfH5HG5.IAODHa0Z9FtM3HggwSFdNBURrEn0aV51kRxO0WUwbv",
+      "domain": ".hubspot.com",
+      "path": "/",
+      "expires": 1782426862.599729,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "__cf_bm",
+      "value": "SHvWV2VHAU2YQJzrVq9xq0mkPOt98Iowe4PF5XJTN0Y-1782425062.806155-1.0.1.1-X7EwNPVeWCvUMmBvoR2tjkxl_WAEjELVkolrmqQQ1h73lQQalWrcZLIqc25Mki4G63h4BPFDpa6F1Bev8k3PizHNFHtmYKi.scGC7KGNOFh6AovRtf3iHlbHyHqnXi2a",
+      "domain": ".hsappstatic.net",
+      "path": "/",
+      "expires": 1782426862.731883,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "__cf_bm",
+      "value": "bZLyTp3mnsnrBedMfEsu1ggzyTA9XTIeo_xrICo6GVw-1782425063.5772831-1.0.1.1-zGJmrVDSZc8l8HFhmv6VQDsesiZaBGrqkucO8PuSNPdTy8lXiGzbFSevmv.0v50m96nSZrpmkW76udIuKiXDmSbIgawpgysh8qDHKYUbPi_MRC7XdUvHaiVqKGTIAort",
+      "domain": ".hubspot.net",
+      "path": "/",
+      "expires": 1782426863.513064,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "__hstc",
+      "value": "90014660.b93f3cfbf8368b31fe9c1adc579121c7.1782425063532.1782425063532.1782425063532.1",
+      "domain": ".your.rentals",
+      "path": "/",
+      "expires": 1797977068,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "hubspotutk",
+      "value": "b93f3cfbf8368b31fe9c1adc579121c7",
+      "domain": ".your.rentals",
+      "path": "/",
+      "expires": 1797977068,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "__hssrc",
+      "value": "1",
+      "domain": ".your.rentals",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "m",
+      "value": "ab812152-21c6-44b0-aea1-a90697ad72144f6747",
+      "domain": "m.stripe.com",
+      "path": "/",
+      "expires": 1816985070.272966,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "__stripe_mid",
+      "value": "ba916fe4-4b62-4dc0-82eb-3194dac699395449aa",
+      "domain": ".goto.your.rentals",
+      "path": "/",
+      "expires": 1813961070,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Strict"
+    },
+    {
+      "name": "__stripe_sid",
+      "value": "2dc338d6-cf9a-4966-b0ac-b278043282933d9e29",
+      "domain": ".goto.your.rentals",
+      "path": "/",
+      "expires": 1782426870,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Strict"
+    },
+    {
+      "name": "_gid",
+      "value": "GA1.2.1906670677.1782425066",
+      "domain": ".your.rentals",
+      "path": "/",
+      "expires": 1782511471,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_gat_UA-77063640-4",
+      "value": "1",
+      "domain": ".your.rentals",
+      "path": "/",
+      "expires": 1782425126,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_ga",
+      "value": "GA1.3.1970811299.1782425066",
+      "domain": ".goto.your.rentals",
+      "path": "/",
+      "expires": 1816985071.012944,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_gid",
+      "value": "GA1.3.1906670677.1782425066",
+      "domain": ".goto.your.rentals",
+      "path": "/",
+      "expires": 1782511471,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_gat_UA-149352830-1",
+      "value": "1",
+      "domain": ".goto.your.rentals",
+      "path": "/",
+      "expires": 1782425126,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "authV2Token",
+      "value": "eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6ImU2YTllMjRhLWVjMjUtNGJjNC1hYWIxLTg4YWY2N2NhMDQ1YSJ9.eyJzdWIiOiI2OTM1NmY2MC0xMmYxLTRmZmUtODFiMC04MDNmNWY4ZjhkODYiLCJpc3MiOiJvcmdhbml6YXRpb24tc2VydmljZS5kZXZlbG9wbWVudC55b3VyLnJlbnRhbHMiLCJhYWwiOjEsImlhdCI6MTc4MjQyNTA2NiwiZXhwIjoxNzgyNDM5NDY2fQ.JDE6Frv0lzl4io6Nbbo3ltmQwUWS-thEjdtGCeZ75ZidEBBTVOCTSrk5geDMjs0QFmphK3I4Jw6cawxopp0YhnZBMudMl0yxMpLAzLfIjIboYBm32PGA4d8gz2zg5R685biuBjKnqL93QLI-Bjf0dFOyUAWllaTTA0Z60M60lP5GaWc3UBGmtzB2l0WDTlPnrcb_pPlZTbfJ52wLd-rPTlhg2VZBP76-MYp3IyPn9QycKjeGFkXleP__JLiSdDlTX60jsQHVhDt158RsBrm57pyF5dtAR9n2ePUx7d7oJx_Ot6MFskkVgjg5ePuJu-JHfctF1QjHTXYxv0tZavH4_w",
+      "domain": ".goto.your.rentals",
+      "path": "/",
+      "expires": 1785017066,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "authV2RefreshTokenKey",
+      "value": "7ba633042d87d83c3ae3643b7d892855e60a.641a1562bc980edfbca538a7c81273e50b7eed203cd429b5844fb4bfaf4264b6084beeb55facc6d31c432a355a1f504565d1d6e173a4d6cf74e01fe5228c7f9c033be30682e80c6de1e23aab7c46a7a45f1f073dd8f52746d189d159ff17c84b063436e62237e3146b3684edc880f64f7400c47a16bab999c1bd32452be69371abe287661c84f1603f8367497accac10e856baa2cc14052ecbff.e953f44dcb29271c9f60336cb2525121ab2169a59f8",
+      "domain": ".goto.your.rentals",
+      "path": "/",
+      "expires": 1785017066,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "authV2IdTokenKey",
+      "value": "eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6ImU2YTllMjRhLWVjMjUtNGJjNC1hYWIxLTg4YWY2N2NhMDQ1YSJ9.eyJzdWIiOiI2OTM1NmY2MC0xMmYxLTRmZmUtODFiMC04MDNmNWY4ZjhkODYiLCJlbWFpbCI6ImNhbmgucGhhbTAxQHlvdXIucmVudGFscyIsIm5hbWUiOiJDYW4gUGhhbXJyIiwiZ2l2ZW5fbmFtZSI6IkNhbiIsImZhbWlseV9uYW1lIjoiUGhhbXJyIiwicHJvZmlsZSI6InVzZXIvNjkzNTZmNjAtMTJmMS00ZmZlLTgxYjAtODAzZjVmOGY4ZDg2L3BleGVscy1waXhhYmF5LTI3NjI2Ny5qcGciLCJlbWFpbF92ZXJpZmllZCI6dHJ1ZSwicGhvbmVfbnVtYmVyIjoiMzczNDMwNjQwIiwibG9jYWxlIjoiRU4iLCJ6b25laW5mbyI6IkFzaWEvVmllbnRpYW5lIiwiY3VycmVudFN0ZXAiOm51bGwsInN0YXR1cyI6ImFjdGl2YXRlZCIsImFjdG9yIjoicG0iLCJpYXQiOjE3ODI0MjUwNjYsImV4cCI6MTc4MjQzOTQ2Nn0.bnNUda4Q9ORz6v5c1QRy5Nu5aluMWTU53kceM_R3O6CbkPKyIoPr6uOozuj004Vo4N055qTWguPCR0XDMRHAVfZYG5HT8rjD0H-R_RQm2A3R9Wuj_dvFgfve6bmWCW21rugUE5Cuhq40lsa-nEwtKHUTaSUNS5YfOC9D9PpLu078-o7mjGkIBULadONNFjezUmVwSnw62uVvuWD6Cc0EQTLPSIj9s4oG0ZdwncxyFe8HusCV-r02fMyY-B_bq7PbA47bIHhrii5yQPfYGA_UsvDIJetpYLBFjDBfUdMyctT6dFqqS-W9BvLrZGSGmfRZgfo1gGWXCumlFJFH_KOy1w",
+      "domain": ".goto.your.rentals",
+      "path": "/",
+      "expires": 1785017066,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "userId",
+      "value": "69356f60-12f1-4ffe-81b0-803f5f8f8d86",
+      "domain": ".goto.your.rentals",
+      "path": "/",
+      "expires": 1785017067,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "pmTimeZone",
+      "value": "Asia%2FVientiane",
+      "domain": "goto.your.rentals",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "YR_AB_TESTING",
+      "value": "rtbInternal%2CextrasV2%2CnewPromoOptions%2CnewFreeExtra%2CmessageTemplateV2%2CinternalAirbOffer",
+      "domain": "goto.your.rentals",
+      "path": "/",
+      "expires": 1782511469,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "messagesUtk",
+      "value": "072b6864e6a64c5bb0f996bb4fbc8450",
+      "domain": ".goto.your.rentals",
+      "path": "/",
+      "expires": 1797977070,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "authV1Token",
+      "value": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiI2OTM1NmY2MC0xMmYxLTRmZmUtODFiMC04MDNmNWY4ZjhkODYiLCJyb2xlIjoidXNlciIsImludGVyY29tVG9rZW4iOiJiNzA2ZTcyNGUwMjVkZmE4NjQ2YzFmOWQyNzYxZjM5YjJhZTdmM2M0MDUwOTNmMDdiNzY1ZjgxNThlYTRjZjYwIiwiYWNjb3VudElkIjoiN2U5YjQ3MjEtNzI3MS00Yjk5LTgzYjktMWM4YjgyNDVlMDZiIiwiaWF0IjoxNzgyNDI1MDY4LCJleHAiOjE3ODI0Mjg2Njh9.HTFFdOeBxBDwpqPh8N06ENXAgYMyLaBCslkuYPK32f4",
+      "domain": ".goto.your.rentals",
+      "path": "/",
+      "expires": 1785017068,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "lastRenewingTokenTimestamp",
+      "value": "1782425068271",
+      "domain": "goto.your.rentals",
+      "path": "/",
+      "expires": 1785017068,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "referrer",
+      "value": "https%3A%2F%2Fgoto.your.rentals%2Forganisation%2Fswitch-account",
+      "domain": "goto.your.rentals",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "__hssc",
+      "value": "90014660.2.1782425063532",
+      "domain": ".your.rentals",
+      "path": "/",
+      "expires": 1782426868,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "lastSuccessState",
+      "value": "%7B%22name%22%3A%22owner.dashboard.main%22%2C%22params%22%3A%7B%22highlightBocmPromotionData%22%3Anull%7D%7D",
+      "domain": "goto.your.rentals",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_ga_L44H3HTTV8",
+      "value": "GS2.1.s1782425065$o1$g1$t1782425071$j54$l0$h1338819149",
+      "domain": ".your.rentals",
+      "path": "/",
+      "expires": 1816985071.021832,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_ga",
+      "value": "GA1.1.1970811299.1782425066",
+      "domain": ".your.rentals",
+      "path": "/",
+      "expires": 1816985071.021957,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_ga_LR09JEYFHY",
+      "value": "GS2.2.s1782425066$o1$g1$t1782425071$j55$l0$h0",
+      "domain": ".your.rentals",
+      "path": "/",
+      "expires": 1816985071.141179,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_ga_LR09JEYFHY",
+      "value": "GS2.3.s1782425066$o1$g1$t1782425071$j55$l0$h0",
+      "domain": ".goto.your.rentals",
+      "path": "/",
+      "expires": 1816985071.14599,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_ga_N0E3EWD79T",
+      "value": "GS2.3.s1782425066$o1$g1$t1782425071$j55$l0$h0",
+      "domain": ".goto.your.rentals",
+      "path": "/",
+      "expires": 1816985071.158525,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    }
+  ],
+  "origins": [
+    {
+      "origin": "https://goto.your.rentals",
+      "localStorage": [
+        {
+          "name": "isDisableDAC7WarningPopup_69356f60-12f1-4ffe-81b0-803f5f8f8d86",
+          "value": "{}"
+        },
+        {
+          "name": "ngStorage-ldCustomUniqueId",
+          "value": "\"c3b68fdc-a700-4d5a-80ec-50605cc754b9\""
+        },
+        {
+          "name": "lastLoggedIn_69356f60-12f1-4ffe-81b0-803f5f8f8d86_ac6bff42-4aa0-4773-80d1-6ea78e831c5e",
+          "value": "{\"7e9b4721-7271-4b99-83b9-1c8b8245e06b\":1782425067921}"
+        },
+        {
+          "name": "__paypal_storage__",
+          "value": "{\"id\":\"uid_db29b6937a_mji6mdq6mjm\",\"__session__\":{\"guid\":\"uid_c569740aac_mji6mdq6mjm\",\"created\":1782425063521}}"
+        },
+        {
+          "name": "organizationId",
+          "value": "ac6bff42-4aa0-4773-80d1-6ea78e831c5e"
+        },
+        {
+          "name": "ngStorage-user",
+          "value": "{\"id\":\"69356f60-12f1-4ffe-81b0-803f5f8f8d86\",\"accountId\":\"7e9b4721-7271-4b99-83b9-1c8b8245e06b\",\"announcementTracking\":{\"bookingMessageNotification\":true,\"disableFirstListingSharingTour\":true},\"contactId\":\"16308801\",\"country\":\"US\",\"createdAt\":\"2023-05-08T00:00:00.000Z\",\"currency\":\"EUR\",\"disableAutoDBWidgetTour\":true,\"disableAutoInsightsTour\":true,\"disableCalendarTour\":true,\"dismissedUpdateCleaningFee\":true,\"email\":\"canh.pham01@your.rentals\",\"emailActivated\":true,\"firstName\":\"Can\",\"hubspotutk\":\"f79e5b8e7b60705dbda02f89adf2bcc9\",\"isDisableGuestReviewTour\":true,\"isCreatedByInvitation\":false,\"isUsedExtrasTemplate\":true,\"language\":\"EN\",\"lastLoggedInAt\":\"2023-12-01T00:00:00.000Z\",\"lastName\":\"Phamrr\",\"npsPopUpShowingDate\":\"2026-07-01T00:00:00.000Z\",\"firstConfirmedBookingAt\":\"2023-05-29T00:00:00.000Z\",\"phone\":{\"code\":84,\"number\":\"373430640\",\"country\":\"VN\"},\"profilePicture\":\"https://image-cdn-dev.your.rentals//public/images/empty-profile-pic.jpg.jpg?w=800\",\"setting\":[{\"name\":\"notification_newsletter\",\"value\":[\"email\"]},{\"name\":\"notification_blog_update\",\"value\":[]},{\"name\":\"notification_new_feature\",\"value\":[\"email\"]},{\"name\":\"notification_special_offers\",\"value\":[\"email\"]},{\"name\":\"notification_listing_update\",\"value\":[]},{\"name\":\"notification_booking\",\"value\":[\"email\"]},{\"name\":\"notification_payout\",\"value\":[\"email\"]},{\"name\":\"notification_guest\",\"value\":[\"email\"]},{\"name\":\"notification_guest_review\",\"value\":[\"email\"]}],\"showDirectBookingIntroPopup\":true,\"signupPhone\":{\"code\":84,\"number\":\"373430640\",\"country\":\"VN\"},\"status\":\"activated\",\"timezone\":\"Asia/Vientiane\",\"updatedAt\":\"2026-05-14T10:39:37.000Z\",\"_et\":\"User\",\"builderVersion\":\"v2\",\"acceptedTerms\":[\"AIRB_1\",\"AIRB_4\",\"TRAD\",\"CAMP\",\"COZY_2\",\"DESP\",\"LOCA_1\",\"LOCA_2\",\"PLUM_1\",\"PLUM_2\",\"BOCM\"],\"accountPlan\":{\"name\":\"Personal\",\"commission\":0.075,\"directCommission\":0.075},\"accountPlanState\":\"notVerified\",\"accountType\":\"company\",\"bookingFee\":0.15,\"currentStep\":\"done\",\"firstListingPublishedAt\":\"2023-05-08T00:00:00.000Z\",\"listingsCount\":1,\"payoutMethods\":[{\"payoutMethodId\":\"4d2ef8f2-67f9-42bd-893c-8dc406636e7f\",\"minimumPayoutAmounts\":[{\"rate\":1.1108,\"amount\":1,\"currency\":\"USD\",\"createdBy\":\"system\",\"createdDate\":\"2020-01-20T03:14:22.665Z\"},{\"rate\":1.0487,\"amount\":20,\"currency\":\"USD\",\"createdBy\":\"system\",\"createdDate\":\"2025-02-27T07:08:03.380Z\"},{\"rate\":1.1377,\"amount\":75,\"currency\":\"USD\",\"createdBy\":\"system\",\"createdDate\":\"2025-04-15T09:32:26.209Z\"},{\"rate\":0.8622,\"amount\":100,\"currency\":\"GBP\",\"createdBy\":\"system\",\"createdDate\":\"2025-07-31T03:02:02.451Z\"},{\"rate\":1,\"amount\":50,\"currency\":\"EUR\",\"createdBy\":\"system\",\"createdDate\":\"2026-05-14T10:39:37.109Z\"}],\"status\":\"active\",\"type\":\"bankTransfer\",\"provider\":\"payoneer\",\"billingAddress\":{\"city\":\"Ha Noi\",\"country\":\"VN\",\"address1\":\"Thanh xuan, Ha Noi\",\"postalCode\":\"1000\"},\"isMigrated\":true,\"bankAccount\":{}}],\"payoutPolicy\":{\"days\":1,\"text\":\"24 hours after check-in\"},\"ratesBasis\":\"rental\",\"salesChannelOption\":{\"saveForAllListings\":true,\"salesChannelExcludedList\":[\"BOCM\",\"AIRB\",\"EXPE\",\"GGLE\",\"AGDA\"]},\"terms\":true,\"vat\":{\"rate\":0.25,\"type\":\"nonEUCompany\",\"isTaxPayer\":false},\"companyName\":\"Canh Company\",\"investigation\":{\"status\":\"verified\"},\"KAM\":true,\"statusInfo\":[{\"reason\":\" \",\"status\":\"Listed\",\"changedAt\":\"2023-05-29T09:46:20.197Z\",\"changedBy\":{\"id\":\"system\",\"type\":\"system\"}}],\"ownerId\":\"69356f60-12f1-4ffe-81b0-803f5f8f8d86\",\"source\":{\"meta\":{\"_gid\":\"GA1.1.1633082528.1683532968\"}},\"segment\":\"Active\",\"ip\":\"222.252.97.72\",\"listingsCountUpdatedAt\":\"2023-11-30T00:00:00.000Z\",\"defaultBookingModel\":\"instant\",\"spokenLanguages\":[\"EN\",\"ES\",\"FR\"],\"abTesting\":\"rtbInternal,extrasV2,newPromoOptions,newFreeExtra,messageTemplateV2,internalAirbOffer\",\"nextListingPauseDate\":\"2025-11-05T00:00:00.000Z\",\"nextAccountPauseDate\":\"2025-11-05T00:00:00.000Z\",\"portfolio\":\"Private\",\"listingRole\":\"owner\",\"firstAccountWasCreatedByInvitedUser\":false,\"account\":{\"ownerId\":\"69356f60-12f1-4ffe-81b0-803f5f8f8d86\",\"email\":\"canh.pham01@your.rentals\",\"currentStep\":\"done\",\"listingsCount\":1,\"listingsCountUpdatedAt\":\"2023-11-30T00:00:00.000Z\",\"listingRole\":\"owner\",\"accountType\":\"company\",\"firstListingPublishedAt\":\"2023-05-08T00:00:00.000Z\",\"companyName\":\"Canh Company\",\"country\":\"US\",\"profilePicture\":\"https://image-cdn-dev.your.rentals//public/images/empty-profile-pic.jpg.jpg?w=800\",\"phone\":{\"code\":84,\"number\":\"373430640\",\"country\":\"VN\"},\"currency\":\"EUR\",\"ip\":\"222.252.97.72\",\"terms\":true,\"status\":\"Listed\",\"salesChannelOption\":{\"saveForAllListings\":true,\"salesChannelExcludedList\":[\"BOCM\",\"AIRB\",\"EXPE\",\"GGLE\",\"AGDA\"]},\"defaultBookingModel\":\"instant\",\"payoutMethods\":[{\"payoutMethodId\":\"4d2ef8f2-67f9-42bd-893c-8dc406636e7f\",\"minimumPayoutAmounts\":[{\"rate\":1.1108,\"amount\":1,\"currency\":\"USD\",\"createdBy\":\"system\",\"createdDate\":\"2020-01-20T03:14:22.665Z\"},{\"rate\":1.0487,\"amount\":20,\"currency\":\"USD\",\"createdBy\":\"system\",\"createdDate\":\"2025-02-27T07:08:03.380Z\"},{\"rate\":1.1377,\"amount\":75,\"currency\":\"USD\",\"createdBy\":\"system\",\"createdDate\":\"2025-04-15T09:32:26.209Z\"},{\"rate\":0.8622,\"amount\":100,\"currency\":\"GBP\",\"createdBy\":\"system\",\"createdDate\":\"2025-07-31T03:02:02.451Z\"},{\"rate\":1,\"amount\":50,\"currency\":\"EUR\",\"createdBy\":\"system\",\"createdDate\":\"2026-05-14T10:39:37.109Z\"}],\"status\":\"active\",\"type\":\"bankTransfer\",\"provider\":\"payoneer\",\"billingAddress\":{\"city\":\"Ha Noi\",\"country\":\"VN\",\"address1\":\"Thanh xuan, Ha Noi\",\"postalCode\":\"1000\"},\"isMigrated\":true,\"bankAccount\":{}}],\"payoutPolicy\":{\"days\":1,\"text\":\"24 hours after check-in\"},\"accountPlan\":{\"name\":\"Personal\",\"commission\":0.075,\"directCommission\":0.075},\"accountPlanState\":\"notVerified\",\"ratesBasis\":\"rental\",\"KAM\":true,\"risk\":{\"level\":\"highest\",\"measures\":{\"ipScore\":\"low\"},\"highestRiskCase\":1},\"spokenLanguages\":[\"EN\",\"ES\",\"FR\"],\"bookingFee\":0.15,\"vat\":{\"rate\":0.25,\"type\":\"nonEUCompany\",\"isTaxPayer\":false},\"segment\":\"Active\",\"source\":{\"meta\":{\"_gid\":\"GA1.1.1633082528.1683532968\"}},\"investigation\":{\"method\":\"idRequestedLowrisk\",\"status\":\"verified\",\"requestAt\":\"2023-05-29T09:45:48.229Z\",\"startedAt\":\"2023-05-08T08:05:27.358Z\",\"startedBy\":{\"displayName\":\"YR System\"},\"updatedAt\":\"2023-05-29T09:46:15.940Z\",\"nextAction\":\"noFurtherInvestigation\",\"completedAt\":\"2023-05-29T09:46:15.940Z\",\"suspendedReason\":null,\"suspendedCategory\":null},\"statusInfo\":[{\"reason\":\" \",\"status\":\"Listed\",\"changedAt\":\"2023-05-29T09:46:20.197Z\",\"changedBy\":{\"id\":\"system\",\"type\":\"system\"}}],\"acceptedTerms\":[\"AIRB_1\",\"AIRB_4\",\"TRAD\",\"CAMP\",\"COZY_2\",\"DESP\",\"LOCA_1\",\"LOCA_2\",\"PLUM_1\",\"PLUM_2\",\"BOCM\"],\"signupPhone\":{\"code\":84,\"number\":\"373430640\",\"country\":\"VN\"},\"abTesting\":\"rtbInternal,extrasV2,newPromoOptions,newFreeExtra,messageTemplateV2,internalAirbOffer\",\"nextListingPauseDate\":\"2025-11-05T00:00:00.000Z\",\"nextAccountPauseDate\":\"2025-11-05T00:00:00.000Z\",\"totalPromoCode\":78,\"totalInstalledPages\":27,\"totalAcceptedCollaborator\":7,\"channelsActiveTotal\":1.95,\"channelsActiveTopFive\":1.37,\"portfolio\":\"Private\",\"advancedPayoutEligibleStatus\":\"must_request\",\"foreignExchangeFee\":0,\"lastChangedCurrencyAt\":\"2026-05-14T10:39:37.116Z\",\"isSmartRatesEnabled\":true,\"splitPayoutEligibleStatus\":\"eligible\",\"firstAccountWasCreatedByInvitedUser\":false,\"createdAt\":\"2023-05-08T00:00:00.000Z\",\"updatedAt\":\"2026-05-14T10:39:37.000Z\"},\"commission\":0.075,\"customCommission\":{\"directBooking\":0.075},\"markup\":0.15}"
+        },
+        {
+          "name": "userId",
+          "value": "69356f60-12f1-4ffe-81b0-803f5f8f8d86"
+        },
+        {
+          "name": "accountId",
+          "value": "7e9b4721-7271-4b99-83b9-1c8b8245e06b"
+        },
+        {
+          "name": "ld:62afe8fa0d275b15899ee925:$diagnostics",
+          "value": "{\"dataSinceDate\":1782425063518,\"droppedEvents\":0,\"eventsInLastBatch\":0,\"streamInits\":[]}"
+        },
+        {
+          "name": "ld:62afe8fa0d275b15899ee925:eyJraW5kIjoidXNlciIsImtleSI6IjY5MzU2ZjYwLTEyZjEtNGZmZS04MWIwLTgwM2Y1ZjhmOGQ4NiIsImVtYWlsIjoiY2FuaC5waGFtMDFAeW91ci5yZW50YWxzIiwiZmlyc3ROYW1lIjoiQ2FuIiwibGFzdE5hbWUiOiJQaGFtcnIiLCJjdXN0b20iOnsidW5pcXVlSWQiOiJcImMzYjY4ZmRjLWE3MDAtNGQ1YS04MGVjLTUwNjA1Y2M3NTRiOVwiIiwidXNlcklkIjoiNjkzNTZmNjAtMTJmMS00ZmZlLTgxYjAtODAzZjVmOGY4ZDg2Iiwib3JnYW5pemF0aW9uSWQiOiJhYzZiZmY0Mi00YWEwLTQ3NzMtODBkMS02ZWE3OGU4MzFjNWUiLCJhY2NvdW50SWQiOiI3ZTliNDcyMS03MjcxLTRiOTktODNiOS0xYzhiODI0NWUwNmIifX0=",
+          "value": "{\"reportable-seller-exclusive-deleted-listings\":{\"version\":2394,\"flagVersion\":13,\"value\":false,\"variation\":1,\"trackEvents\":false},\"allow-switch-back-messaging-v1\":{\"version\":2394,\"flagVersion\":12,\"value\":false,\"variation\":1,\"trackEvents\":false},\"store-payout-transaction-fee\":{\"version\":2394,\"flagVersion\":16,\"value\":true,\"variation\":0,\"trackEvents\":false},\"whatsapp-verify-phone\":{\"version\":2394,\"flagVersion\":16,\"value\":true,\"variation\":0,\"trackEvents\":false},\"airb-booking-alteration\":{\"version\":2394,\"flagVersion\":8,\"value\":false,\"variation\":1,\"trackEvents\":false},\"new-refresh-token-flow\":{\"version\":2394,\"flagVersion\":26,\"value\":false,\"variation\":1,\"trackEvents\":false},\"sale-channels-using-mangopay\":{\"version\":2394,\"flagVersion\":28,\"value\":false,\"variation\":1,\"trackEvents\":false},\"show-price-in-collaborator-booking-email\":{\"version\":2394,\"flagVersion\":7,\"value\":false,\"variation\":1,\"trackEvents\":false},\"external-calendar-bulk-resync\":{\"version\":2394,\"flagVersion\":3,\"value\":true,\"variation\":0,\"trackEvents\":false},\"airb-connection-importer\":{\"version\":2394,\"flagVersion\":50,\"value\":true,\"variation\":0,\"trackEvents\":false},\"new-listing-promotion\":{\"version\":2394,\"flagVersion\":5,\"value\":true,\"variation\":0,\"trackEvents\":false},\"remove-listing-currency-alert\":{\"version\":2394,\"flagVersion\":9,\"value\":true,\"variation\":0,\"trackEvents\":false},\"deduct-transaction-fee\":{\"version\":2394,\"flagVersion\":29,\"value\":true,\"variation\":0,\"trackEvents\":false},\"detect-labels-using-rekognition\":{\"version\":2394,\"flagVersion\":13,\"value\":false,\"variation\":1,\"trackEvents\":false},\"mangopay-integration\":{\"version\":2394,\"flagVersion\":27,\"value\":true,\"variation\":0,\"trackEvents\":false},\"block-email-has-more-than-three-dots\":{\"version\":2394,\"flagVersion\":4,\"value\":false,\"variation\":1,\"trackEvents\":false},\"guest-registration-banner\":{\"version\":2394,\"flagVersion\":34,\"value\":1,\"variation\":0,\"trackEvents\":false},\"sign-up-by-facebook\":{\"version\":2394,\"flagVersion\":9,\"value\":true,\"variation\":0,\"trackEvents\":false},\"enable-dynamic-pricing-modal-in-main\":{\"version\":2394,\"flagVersion\":9,\"value\":true,\"variation\":0,\"trackEvents\":false},\"allow-move-mup-bookings\":{\"version\":2394,\"flagVersion\":13,\"value\":false,\"variation\":1,\"trackEvents\":false},\"select-all-sale-channels-by-default\":{\"version\":2394,\"flagVersion\":28,\"value\":false,\"variation\":1,\"trackEvents\":false},\"disable-collaborator-notifications\":{\"version\":2394,\"flagVersion\":10,\"value\":false,\"variation\":1,\"trackEvents\":false},\"airb-importer\":{\"version\":2394,\"flagVersion\":21,\"value\":true,\"variation\":0,\"trackEvents\":false},\"get-smart-rate-recommendation-by-location\":{\"version\":2394,\"flagVersion\":12,\"value\":false,\"variation\":1,\"trackEvents\":false},\"config-dynamic-pricing-in-builder\":{\"version\":2394,\"flagVersion\":21,\"value\":\"DEFAULT_OFF\",\"variation\":1,\"trackEvents\":false},\"disable-7-day-before-checkin-reminder\":{\"version\":2394,\"flagVersion\":7,\"value\":false,\"variation\":1,\"trackEvents\":false},\"require-approval-to-publish-listings\":{\"version\":2394,\"flagVersion\":119,\"value\":false,\"variation\":1,\"trackEvents\":false},\"only-establishment-code\":{\"version\":2394,\"flagVersion\":6,\"value\":true,\"variation\":0,\"trackEvents\":false},\"bocm-cancellation-policies\":{\"version\":2394,\"flagVersion\":13,\"value\":true,\"variation\":0,\"trackEvents\":false},\"guest-registration-official-release\":{\"version\":2394,\"flagVersion\":3,\"value\":true,\"variation\":0,\"trackEvents\":false},\"show-daily-price-on-block-date-calendar\":{\"version\":2394,\"flagVersion\":7,\"value\":true,\"variation\":0,\"trackEvents\":false},\"reportable-seller-allow-associate-deleted-listings\":{\"version\":2394,\"flagVersion\":11,\"value\":false,\"variation\":1,\"trackEvents\":false},\"eu-vat-locally\":{\"version\":2394,\"flagVersion\":22,\"value\":false,\"variation\":1,\"trackEvents\":false},\"builder-show-pricing-breakdown-on-pricing-step\":{\"version\":2394,\"flagVersion\":5,\"value\":true,\"variation\":0,\"trackEvents\":false},\"dynamic-pricing-in-builder\":{\"version\":2394,\"flagVersion\":4,\"value\":false,\"variation\":1,\"trackEvents\":false},\"enable-listing-batch-delete-discounts\":{\"version\":2394,\"flagVersion\":3,\"value\":true,\"variation\":0,\"trackEvents\":false},\"airb-checkin-method\":{\"version\":2394,\"flagVersion\":6,\"value\":true,\"variation\":0,\"trackEvents\":false},\"away-dynamic-regulations\":{\"version\":2394,\"flagVersion\":8,\"value\":false,\"variation\":1,\"trackEvents\":false},\"using-jounrney-id-param-for-shuftipro-verificaiton\":{\"version\":2394,\"flagVersion\":14,\"value\":true,\"variation\":0,\"trackEvents\":false},\"using-builder-description-ai\":{\"version\":2394,\"flagVersion\":4,\"value\":true,\"variation\":0,\"trackEvents\":false},\"enable-switch-builder-version\":{\"version\":2394,\"flagVersion\":35,\"value\":false,\"variation\":1,\"trackEvents\":false},\"enable-api-key\":{\"version\":2394,\"flagVersion\":26,\"value\":true,\"variation\":0,\"trackEvents\":false},\"airb-connection\":{\"version\":2394,\"flagVersion\":9,\"value\":true,\"variation\":0,\"trackEvents\":false},\"check-blacklist-domain-use-database\":{\"version\":2394,\"flagVersion\":7,\"value\":true,\"variation\":0,\"trackEvents\":false},\"remove-auto-detect-sc-from-ical-link\":{\"version\":2394,\"flagVersion\":3,\"value\":true,\"variation\":0,\"trackEvents\":false},\"offer-with-blocked-until-date-and-expired-date\":{\"version\":2394,\"flagVersion\":48,\"value\":true,\"variation\":0,\"trackEvents\":false},\"rate-preference-in-calendar\":{\"version\":2394,\"flagVersion\":9,\"value\":true,\"variation\":0,\"trackEvents\":false},\"skip-full-match-booking-conflict-email\":{\"version\":2394,\"flagVersion\":3,\"value\":false,\"variation\":1,\"trackEvents\":false},\"react-transactions-page\":{\"version\":2394,\"flagVersion\":59,\"value\":true,\"variation\":0,\"trackEvents\":false},\"seasonal-rate-on-new-calendar\":{\"version\":2394,\"flagVersion\":7,\"value\":true,\"variation\":0,\"trackEvents\":false},\"assign-scratch-listings-to-airbnb-account\":{\"version\":2394,\"flagVersion\":4,\"value\":true,\"variation\":0,\"trackEvents\":false},\"plain-text-for-message\":{\"version\":2394,\"flagVersion\":3,\"value\":true,\"variation\":0,\"trackEvents\":false},\"channel-policy\":{\"version\":2394,\"flagVersion\":23,\"value\":true,\"variation\":0,\"trackEvents\":false},\"rtb-sidebar-price-flag\":{\"version\":2394,\"flagVersion\":6,\"value\":true,\"variation\":0,\"trackEvents\":false},\"new-rtp-page\":{\"version\":2394,\"flagVersion\":26,\"value\":true,\"variation\":0,\"trackEvents\":false},\"calendar-sync-in-builder\":{\"version\":2394,\"flagVersion\":32,\"value\":false,\"variation\":1,\"trackEvents\":false},\"promote-dynamic-pricing\":{\"version\":2394,\"flagVersion\":5,\"value\":true,\"variation\":0,\"trackEvents\":false},\"message-v2\":{\"version\":2394,\"flagVersion\":46,\"value\":true,\"variation\":0,\"trackEvents\":false},\"rate-and-rule-on-calendar\":{\"version\":2394,\"flagVersion\":12,\"value\":\"BOTTOM\",\"variation\":1,\"trackEvents\":false},\"disabled-import-bocm\":{\"version\":2394,\"flagVersion\":10,\"value\":false,\"variation\":1,\"trackEvents\":false},\"new-onboarding-2026\":{\"version\":2394,\"flagVersion\":23,\"value\":true,\"variation\":0,\"trackEvents\":false},\"enable-membership-deal\":{\"version\":2394,\"flagVersion\":12,\"value\":true,\"variation\":0,\"trackEvents\":false},\"guest-registration-banner-on-pm-booking-page\":{\"version\":2394,\"flagVersion\":8,\"value\":1,\"variation\":0,\"trackEvents\":false},\"copy-block-nights\":{\"version\":2394,\"flagVersion\":6,\"value\":true,\"variation\":0,\"trackEvents\":false},\"new-website-builder\":{\"version\":2394,\"flagVersion\":5,\"value\":true,\"variation\":0,\"trackEvents\":false},\"enable-listing-builder-default-discounts\":{\"version\":2394,\"flagVersion\":10,\"value\":false,\"variation\":1,\"trackEvents\":false},\"hide-guest-registration-from-inside\":{\"version\":2394,\"flagVersion\":16,\"value\":true,\"variation\":0,\"trackEvents\":false},\"new-cleaning-automation\":{\"version\":2394,\"flagVersion\":7,\"value\":true,\"variation\":0,\"trackEvents\":false},\"pet-fees\":{\"version\":2394,\"flagVersion\":6,\"value\":true,\"variation\":0,\"trackEvents\":false},\"hide-icon-quick-replies\":{\"version\":2394,\"flagVersion\":8,\"value\":false,\"variation\":1,\"trackEvents\":false},\"shufti-integration\":{\"version\":2394,\"flagVersion\":14,\"value\":true,\"variation\":0,\"trackEvents\":false},\"search-listings-by-location-v2\":{\"version\":2394,\"flagVersion\":3,\"value\":false,\"variation\":1,\"trackEvents\":false},\"hide-common-checkin-details\":{\"version\":2394,\"flagVersion\":30,\"value\":true,\"variation\":0,\"trackEvents\":false},\"expedia-importer\":{\"version\":2394,\"flagVersion\":8,\"value\":true,\"variation\":0,\"trackEvents\":false},\"enable-new-builder-for-new-user\":{\"version\":2394,\"flagVersion\":27,\"value\":true,\"variation\":0,\"trackEvents\":false},\"dynamic-pricing-on-mup\":{\"version\":2394,\"flagVersion\":4,\"value\":false,\"variation\":1,\"trackEvents\":false},\"send-message-to-guest-as-pm-when-received-airb-inquiry\":{\"version\":2394,\"flagVersion\":7,\"value\":true,\"variation\":0,\"trackEvents\":false},\"copy-setting-for-new-builder-2025\":{\"version\":2394,\"flagVersion\":5,\"value\":true,\"variation\":0,\"trackEvents\":false},\"fx-free-by-currency\":{\"version\":2394,\"flagVersion\":36,\"value\":[],\"variation\":1,\"trackEvents\":false},\"new-builder-basic-discounts\":{\"version\":2394,\"flagVersion\":9,\"value\":true,\"variation\":0,\"trackEvents\":false},\"new-booking-csv\":{\"version\":2394,\"flagVersion\":11,\"value\":false,\"variation\":1,\"trackEvents\":false},\"caching-imported-scraper-data\":{\"version\":2394,\"flagVersion\":5,\"value\":false,\"variation\":1,\"trackEvents\":false},\"airb-checkout-instruction\":{\"version\":2394,\"flagVersion\":6,\"value\":true,\"variation\":0,\"trackEvents\":false},\"new-builder-2025\":{\"version\":2394,\"flagVersion\":87,\"value\":true,\"variation\":0,\"trackEvents\":false},\"booking-airbnb-offer-create\":{\"version\":2394,\"flagVersion\":6,\"value\":true,\"variation\":0,\"trackEvents\":false},\"supported-new-airb-pm-review\":{\"version\":2394,\"flagVersion\":16,\"value\":true,\"variation\":0,\"trackEvents\":false},\"listing-custom-meta-data\":{\"version\":2394,\"flagVersion\":6,\"value\":true,\"variation\":0,\"trackEvents\":false},\"skip-failed-external-calendar-sync\":{\"version\":2394,\"flagVersion\":10,\"value\":true,\"variation\":0,\"trackEvents\":false},\"airb-amenities\":{\"version\":2394,\"flagVersion\":9,\"value\":true,\"variation\":0,\"trackEvents\":false},\"dynamic-pricing-api-key\":{\"version\":2394,\"flagVersion\":4,\"value\":true,\"variation\":0,\"trackEvents\":false},\"switch-account-dropdown\":{\"version\":2394,\"flagVersion\":8,\"value\":false,\"variation\":1,\"trackEvents\":false},\"automate-dispute-closed\":{\"version\":2394,\"flagVersion\":8,\"value\":true,\"variation\":0,\"trackEvents\":false},\"airb-connection-disconnected-from-yr\":{\"version\":2394,\"flagVersion\":8,\"value\":true,\"variation\":0,\"trackEvents\":false},\"sign-up-by-google\":{\"version\":2394,\"flagVersion\":9,\"value\":true,\"variation\":0,\"trackEvents\":false},\"always-show-invoices-v1\":{\"version\":2394,\"flagVersion\":5,\"value\":true,\"variation\":0,\"trackEvents\":false},\"hidden-order-pet-fees\":{\"version\":2394,\"flagVersion\":8,\"value\":false,\"variation\":1,\"trackEvents\":false},\"airb-sign-up\":{\"version\":2394,\"flagVersion\":7,\"value\":true,\"variation\":0,\"trackEvents\":false},\"steps-to-success-on-off\":{\"version\":2394,\"flagVersion\":15,\"value\":true,\"variation\":0,\"trackEvents\":false},\"builder-minimum-required-photos\":{\"version\":2394,\"flagVersion\":13,\"value\":5,\"variation\":0,\"trackEvents\":false},\"multi-user-management\":{\"version\":2394,\"flagVersion\":12,\"value\":true,\"variation\":0,\"trackEvents\":false},\"flag-disable-listing-summary\":{\"version\":2394,\"flagVersion\":3,\"value\":true,\"variation\":0,\"trackEvents\":false},\"new-builder-channel-2nd-step\":{\"version\":2394,\"flagVersion\":13,\"value\":false,\"variation\":1,\"trackEvents\":false},\"create-sc-offer-when-declined\":{\"version\":2394,\"flagVersion\":3,\"value\":true,\"variation\":0,\"trackEvents\":false},\"bocm-stay-rule\":{\"version\":2394,\"flagVersion\":6,\"value\":true,\"variation\":0,\"trackEvents\":false},\"mangopay-checkout-sdk-integration\":{\"version\":2394,\"flagVersion\":113,\"value\":false,\"variation\":1,\"trackEvents\":false},\"remove-old-calendar-page\":{\"version\":2394,\"flagVersion\":12,\"value\":false,\"variation\":1,\"trackEvents\":false},\"airb-connection-in-menu\":{\"version\":2394,\"flagVersion\":8,\"value\":true,\"variation\":0,\"trackEvents\":false},\"builder-room-ui-improvement\":{\"version\":2394,\"flagVersion\":8,\"value\":true,\"variation\":0,\"trackEvents\":false},\"opportunities-v2\":{\"version\":2394,\"flagVersion\":9,\"value\":true,\"variation\":0,\"trackEvents\":false},\"differentiate-booker-from-guest\":{\"version\":2394,\"flagVersion\":6,\"value\":true,\"variation\":0,\"trackEvents\":false},\"request-to-publish-cta-improvement\":{\"version\":2394,\"flagVersion\":39,\"value\":\"TOP\",\"variation\":1,\"trackEvents\":false},\"cancellation-policies-bocm\":{\"version\":2394,\"flagVersion\":19,\"value\":true,\"variation\":0,\"trackEvents\":false},\"vrbo-importer\":{\"version\":2394,\"flagVersion\":10,\"value\":true,\"variation\":0,\"trackEvents\":false},\"booking-offer-create\":{\"version\":2394,\"flagVersion\":16,\"value\":true,\"variation\":0,\"trackEvents\":false},\"airb-grace24\":{\"version\":2394,\"flagVersion\":6,\"value\":true,\"variation\":0,\"trackEvents\":false},\"dac7\":{\"version\":2394,\"flagVersion\":52,\"value\":true,\"variation\":0,\"trackEvents\":false},\"new-sign-up-magic-link-flow\":{\"version\":2394,\"flagVersion\":7,\"value\":true,\"variation\":0,\"trackEvents\":false},\"marketplace-tool\":{\"version\":2394,\"flagVersion\":5,\"value\":true,\"variation\":0,\"trackEvents\":false},\"captcha\":{\"version\":2394,\"flagVersion\":47,\"value\":false,\"variation\":1,\"trackEvents\":false},\"account-connection-page\":{\"version\":2394,\"flagVersion\":24,\"value\":true,\"variation\":0,\"trackEvents\":false},\"smart-rates-multiple-provider\":{\"version\":2394,\"flagVersion\":15,\"value\":false,\"variation\":1,\"trackEvents\":false},\"smart-rates\":{\"version\":2394,\"flagVersion\":144,\"value\":false,\"variation\":1,\"trackEvents\":false},\"ai-settings\":{\"version\":2394,\"flagVersion\":6,\"value\":true,\"variation\":0,\"trackEvents\":false},\"ai-messages-suggestion\":{\"version\":2394,\"flagVersion\":7,\"value\":true,\"variation\":0,\"trackEvents\":false},\"guest-check-ins\":{\"version\":2394,\"flagVersion\":14,\"value\":true,\"variation\":0,\"trackEvents\":false},\"show-price-for-collaborator\":{\"version\":2394,\"flagVersion\":9,\"value\":false,\"variation\":1,\"trackEvents\":false},\"remove-verify-phone-number-from-RTP-flow\":{\"version\":2394,\"flagVersion\":3,\"value\":true,\"variation\":0,\"trackEvents\":false},\"split-payout\":{\"version\":2394,\"flagVersion\":86,\"value\":true,\"variation\":0,\"trackEvents\":false},\"booking-rule-check-in-time-frame\":{\"version\":2394,\"flagVersion\":4,\"value\":true,\"variation\":0,\"trackEvents\":false},\"bocm-importer\":{\"version\":2394,\"flagVersion\":9,\"value\":true,\"variation\":0,\"trackEvents\":false},\"limit-split-payout-rule\":{\"version\":2394,\"flagVersion\":7,\"value\":{\"maxCollaborator\":2,\"maxConfiguration\":20,\"maxPayoutRule\":10},\"variation\":0,\"trackEvents\":false},\"2fa-excluded-list\":{\"version\":2394,\"flagVersion\":131,\"value\":true,\"variation\":0,\"trackEvents\":false},\"vrbo-review\":{\"version\":2394,\"flagVersion\":17,\"value\":true,\"variation\":0,\"trackEvents\":false},\"$schema\":1}"
+        },
+        {
+          "name": "ld:62afe8fa0d275b15899ee925:eyJraW5kIjoidXNlciIsImtleSI6IjY5MzU2ZjYwLTEyZjEtNGZmZS04MWIwLTgwM2Y1ZjhmOGQ4NiIsImZpcnN0TmFtZSI6IkNhbiIsImxhc3ROYW1lIjoiUGhhbXJyIiwiZW1haWwiOiJjYW5oLnBoYW0wMUB5b3VyLnJlbnRhbHMiLCJjdXN0b20iOnsidXNlcklkIjoiNjkzNTZmNjAtMTJmMS00ZmZlLTgxYjAtODAzZjVmOGY4ZDg2Iiwib3JnYW5pemF0aW9uSWQiOiJhYzZiZmY0Mi00YWEwLTQ3NzMtODBkMS02ZWE3OGU4MzFjNWUiLCJhY2NvdW50SWQiOiI3ZTliNDcyMS03MjcxLTRiOTktODNiOS0xYzhiODI0NWUwNmIiLCJ1bmlxdWVJZCI6ImMzYjY4ZmRjLWE3MDAtNGQ1YS04MGVjLTUwNjA1Y2M3NTRiOSJ9fQ==",
+          "value": "{\"remove-listing-currency-alert\":{\"version\":2394,\"flagVersion\":9,\"value\":true,\"variation\":0,\"trackEvents\":false},\"away-dynamic-regulations\":{\"version\":2394,\"flagVersion\":8,\"value\":false,\"variation\":1,\"trackEvents\":false},\"whatsapp-verify-phone\":{\"version\":2394,\"flagVersion\":16,\"value\":true,\"variation\":0,\"trackEvents\":false},\"new-booking-csv\":{\"version\":2394,\"flagVersion\":11,\"value\":false,\"variation\":1,\"trackEvents\":false},\"dynamic-pricing-on-mup\":{\"version\":2394,\"flagVersion\":4,\"value\":false,\"variation\":1,\"trackEvents\":false},\"supported-new-airb-pm-review\":{\"version\":2394,\"flagVersion\":16,\"value\":true,\"variation\":0,\"trackEvents\":false},\"allow-switch-back-messaging-v1\":{\"version\":2394,\"flagVersion\":12,\"value\":false,\"variation\":1,\"trackEvents\":false},\"only-establishment-code\":{\"version\":2394,\"flagVersion\":6,\"value\":true,\"variation\":0,\"trackEvents\":false},\"dynamic-pricing-in-builder\":{\"version\":2394,\"flagVersion\":4,\"value\":false,\"variation\":1,\"trackEvents\":false},\"smart-rates\":{\"version\":2394,\"flagVersion\":144,\"value\":false,\"variation\":1,\"trackEvents\":false},\"bocm-importer\":{\"version\":2394,\"flagVersion\":9,\"value\":true,\"variation\":0,\"trackEvents\":false},\"check-blacklist-domain-use-database\":{\"version\":2394,\"flagVersion\":7,\"value\":true,\"variation\":0,\"trackEvents\":false},\"builder-minimum-required-photos\":{\"version\":2394,\"flagVersion\":13,\"value\":5,\"variation\":0,\"trackEvents\":false},\"dac7\":{\"version\":2394,\"flagVersion\":52,\"value\":true,\"variation\":0,\"trackEvents\":false},\"sign-up-by-google\":{\"version\":2394,\"flagVersion\":9,\"value\":true,\"variation\":0,\"trackEvents\":false},\"new-rtp-page\":{\"version\":2394,\"flagVersion\":26,\"value\":true,\"variation\":0,\"trackEvents\":false},\"captcha\":{\"version\":2394,\"flagVersion\":47,\"value\":false,\"variation\":1,\"trackEvents\":false},\"hide-icon-quick-replies\":{\"version\":2394,\"flagVersion\":8,\"value\":false,\"variation\":1,\"trackEvents\":false},\"copy-block-nights\":{\"version\":2394,\"flagVersion\":6,\"value\":true,\"variation\":0,\"trackEvents\":false},\"plain-text-for-message\":{\"version\":2394,\"flagVersion\":3,\"value\":true,\"variation\":0,\"trackEvents\":false},\"vrbo-review\":{\"version\":2394,\"flagVersion\":17,\"value\":true,\"variation\":0,\"trackEvents\":false},\"guest-registration-official-release\":{\"version\":2394,\"flagVersion\":3,\"value\":true,\"variation\":0,\"trackEvents\":false},\"airb-booking-alteration\":{\"version\":2394,\"flagVersion\":8,\"value\":false,\"variation\":1,\"trackEvents\":false},\"show-price-in-collaborator-booking-email\":{\"version\":2394,\"flagVersion\":7,\"value\":false,\"variation\":1,\"trackEvents\":false},\"new-builder-basic-discounts\":{\"version\":2394,\"flagVersion\":9,\"value\":true,\"variation\":0,\"trackEvents\":false},\"enable-listing-builder-default-discounts\":{\"version\":2394,\"flagVersion\":10,\"value\":false,\"variation\":1,\"trackEvents\":false},\"message-v2\":{\"version\":2394,\"flagVersion\":46,\"value\":true,\"variation\":0,\"trackEvents\":false},\"copy-setting-for-new-builder-2025\":{\"version\":2394,\"flagVersion\":5,\"value\":true,\"variation\":0,\"trackEvents\":false},\"airb-connection\":{\"version\":2394,\"flagVersion\":9,\"value\":true,\"variation\":0,\"trackEvents\":false},\"reportable-seller-allow-associate-deleted-listings\":{\"version\":2394,\"flagVersion\":11,\"value\":false,\"variation\":1,\"trackEvents\":false},\"caching-imported-scraper-data\":{\"version\":2394,\"flagVersion\":5,\"value\":false,\"variation\":1,\"trackEvents\":false},\"mangopay-checkout-sdk-integration\":{\"version\":2394,\"flagVersion\":113,\"value\":false,\"variation\":1,\"trackEvents\":false},\"bocm-cancellation-policies\":{\"version\":2394,\"flagVersion\":13,\"value\":true,\"variation\":0,\"trackEvents\":false},\"enable-listing-batch-delete-discounts\":{\"version\":2394,\"flagVersion\":3,\"value\":true,\"variation\":0,\"trackEvents\":false},\"new-refresh-token-flow\":{\"version\":2394,\"flagVersion\":26,\"value\":false,\"variation\":1,\"trackEvents\":false},\"new-listing-promotion\":{\"version\":2394,\"flagVersion\":5,\"value\":true,\"variation\":0,\"trackEvents\":false},\"new-onboarding-2026\":{\"version\":2394,\"flagVersion\":23,\"value\":true,\"variation\":0,\"trackEvents\":false},\"booking-airbnb-offer-create\":{\"version\":2394,\"flagVersion\":6,\"value\":true,\"variation\":0,\"trackEvents\":false},\"rate-and-rule-on-calendar\":{\"version\":2394,\"flagVersion\":12,\"value\":\"BOTTOM\",\"variation\":1,\"trackEvents\":false},\"dynamic-pricing-api-key\":{\"version\":2394,\"flagVersion\":4,\"value\":true,\"variation\":0,\"trackEvents\":false},\"detect-labels-using-rekognition\":{\"version\":2394,\"flagVersion\":13,\"value\":false,\"variation\":1,\"trackEvents\":false},\"smart-rates-multiple-provider\":{\"version\":2394,\"flagVersion\":15,\"value\":false,\"variation\":1,\"trackEvents\":false},\"config-dynamic-pricing-in-builder\":{\"version\":2394,\"flagVersion\":21,\"value\":\"DEFAULT_OFF\",\"variation\":1,\"trackEvents\":false},\"airb-connection-disconnected-from-yr\":{\"version\":2394,\"flagVersion\":8,\"value\":true,\"variation\":0,\"trackEvents\":false},\"offer-with-blocked-until-date-and-expired-date\":{\"version\":2394,\"flagVersion\":48,\"value\":true,\"variation\":0,\"trackEvents\":false},\"skip-failed-external-calendar-sync\":{\"version\":2394,\"flagVersion\":10,\"value\":true,\"variation\":0,\"trackEvents\":false},\"marketplace-tool\":{\"version\":2394,\"flagVersion\":5,\"value\":true,\"variation\":0,\"trackEvents\":false},\"assign-scratch-listings-to-airbnb-account\":{\"version\":2394,\"flagVersion\":4,\"value\":true,\"variation\":0,\"trackEvents\":false},\"enable-api-key\":{\"version\":2394,\"flagVersion\":26,\"value\":true,\"variation\":0,\"trackEvents\":false},\"calendar-sync-in-builder\":{\"version\":2394,\"flagVersion\":32,\"value\":false,\"variation\":1,\"trackEvents\":false},\"guest-registration-banner\":{\"version\":2394,\"flagVersion\":34,\"value\":1,\"variation\":0,\"trackEvents\":false},\"new-website-builder\":{\"version\":2394,\"flagVersion\":5,\"value\":true,\"variation\":0,\"trackEvents\":false},\"always-show-invoices-v1\":{\"version\":2394,\"flagVersion\":5,\"value\":true,\"variation\":0,\"trackEvents\":false},\"expedia-importer\":{\"version\":2394,\"flagVersion\":8,\"value\":true,\"variation\":0,\"trackEvents\":false},\"remove-old-calendar-page\":{\"version\":2394,\"flagVersion\":12,\"value\":false,\"variation\":1,\"trackEvents\":false},\"sale-channels-using-mangopay\":{\"version\":2394,\"flagVersion\":28,\"value\":false,\"variation\":1,\"trackEvents\":false},\"new-sign-up-magic-link-flow\":{\"version\":2394,\"flagVersion\":7,\"value\":true,\"variation\":0,\"trackEvents\":false},\"disable-7-day-before-checkin-reminder\":{\"version\":2394,\"flagVersion\":7,\"value\":false,\"variation\":1,\"trackEvents\":false},\"select-all-sale-channels-by-default\":{\"version\":2394,\"flagVersion\":28,\"value\":false,\"variation\":1,\"trackEvents\":false},\"remove-auto-detect-sc-from-ical-link\":{\"version\":2394,\"flagVersion\":3,\"value\":true,\"variation\":0,\"trackEvents\":false},\"fx-free-by-currency\":{\"version\":2394,\"flagVersion\":36,\"value\":[],\"variation\":1,\"trackEvents\":false},\"multi-user-management\":{\"version\":2394,\"flagVersion\":12,\"value\":true,\"variation\":0,\"trackEvents\":false},\"ai-settings\":{\"version\":2394,\"flagVersion\":6,\"value\":true,\"variation\":0,\"trackEvents\":false},\"split-payout\":{\"version\":2394,\"flagVersion\":86,\"value\":true,\"variation\":0,\"trackEvents\":false},\"search-listings-by-location-v2\":{\"version\":2394,\"flagVersion\":3,\"value\":false,\"variation\":1,\"trackEvents\":false},\"guest-registration-banner-on-pm-booking-page\":{\"version\":2394,\"flagVersion\":8,\"value\":1,\"variation\":0,\"trackEvents\":false},\"block-email-has-more-than-three-dots\":{\"version\":2394,\"flagVersion\":4,\"value\":false,\"variation\":1,\"trackEvents\":false},\"account-connection-page\":{\"version\":2394,\"flagVersion\":24,\"value\":true,\"variation\":0,\"trackEvents\":false},\"show-price-for-collaborator\":{\"version\":2394,\"flagVersion\":9,\"value\":false,\"variation\":1,\"trackEvents\":false},\"switch-account-dropdown\":{\"version\":2394,\"flagVersion\":8,\"value\":false,\"variation\":1,\"trackEvents\":false},\"new-builder-2025\":{\"version\":2394,\"flagVersion\":87,\"value\":true,\"variation\":0,\"trackEvents\":false},\"skip-full-match-booking-conflict-email\":{\"version\":2394,\"flagVersion\":3,\"value\":false,\"variation\":1,\"trackEvents\":false},\"enable-new-builder-for-new-user\":{\"version\":2394,\"flagVersion\":27,\"value\":true,\"variation\":0,\"trackEvents\":false},\"airb-grace24\":{\"version\":2394,\"flagVersion\":6,\"value\":true,\"variation\":0,\"trackEvents\":false},\"opportunities-v2\":{\"version\":2394,\"flagVersion\":9,\"value\":true,\"variation\":0,\"trackEvents\":false},\"hidden-order-pet-fees\":{\"version\":2394,\"flagVersion\":8,\"value\":false,\"variation\":1,\"trackEvents\":false},\"airb-connection-in-menu\":{\"version\":2394,\"flagVersion\":8,\"value\":true,\"variation\":0,\"trackEvents\":false},\"get-smart-rate-recommendation-by-location\":{\"version\":2394,\"flagVersion\":12,\"value\":false,\"variation\":1,\"trackEvents\":false},\"eu-vat-locally\":{\"version\":2394,\"flagVersion\":22,\"value\":false,\"variation\":1,\"trackEvents\":false},\"builder-show-pricing-breakdown-on-pricing-step\":{\"version\":2394,\"flagVersion\":5,\"value\":true,\"variation\":0,\"trackEvents\":false},\"send-message-to-guest-as-pm-when-received-airb-inquiry\":{\"version\":2394,\"flagVersion\":7,\"value\":true,\"variation\":0,\"trackEvents\":false},\"differentiate-booker-from-guest\":{\"version\":2394,\"flagVersion\":6,\"value\":true,\"variation\":0,\"trackEvents\":false},\"listing-custom-meta-data\":{\"version\":2394,\"flagVersion\":6,\"value\":true,\"variation\":0,\"trackEvents\":false},\"channel-policy\":{\"version\":2394,\"flagVersion\":23,\"value\":true,\"variation\":0,\"trackEvents\":false},\"airb-connection-importer\":{\"version\":2394,\"flagVersion\":50,\"value\":true,\"variation\":0,\"trackEvents\":false},\"promote-dynamic-pricing\":{\"version\":2394,\"flagVersion\":5,\"value\":true,\"variation\":0,\"trackEvents\":false},\"request-to-publish-cta-improvement\":{\"version\":2394,\"flagVersion\":39,\"value\":\"TOP\",\"variation\":1,\"trackEvents\":false},\"using-builder-description-ai\":{\"version\":2394,\"flagVersion\":4,\"value\":true,\"variation\":0,\"trackEvents\":false},\"mangopay-integration\":{\"version\":2394,\"flagVersion\":27,\"value\":true,\"variation\":0,\"trackEvents\":false},\"require-approval-to-publish-listings\":{\"version\":2394,\"flagVersion\":119,\"value\":false,\"variation\":1,\"trackEvents\":false},\"steps-to-success-on-off\":{\"version\":2394,\"flagVersion\":15,\"value\":true,\"variation\":0,\"trackEvents\":false},\"new-builder-channel-2nd-step\":{\"version\":2394,\"flagVersion\":13,\"value\":false,\"variation\":1,\"trackEvents\":false},\"airb-checkin-method\":{\"version\":2394,\"flagVersion\":6,\"value\":true,\"variation\":0,\"trackEvents\":false},\"sign-up-by-facebook\":{\"version\":2394,\"flagVersion\":9,\"value\":true,\"variation\":0,\"trackEvents\":false},\"deduct-transaction-fee\":{\"version\":2394,\"flagVersion\":29,\"value\":true,\"variation\":0,\"trackEvents\":false},\"shufti-integration\":{\"version\":2394,\"flagVersion\":14,\"value\":true,\"variation\":0,\"trackEvents\":false},\"flag-disable-listing-summary\":{\"version\":2394,\"flagVersion\":3,\"value\":true,\"variation\":0,\"trackEvents\":false},\"ai-messages-suggestion\":{\"version\":2394,\"flagVersion\":7,\"value\":true,\"variation\":0,\"trackEvents\":false},\"airb-importer\":{\"version\":2394,\"flagVersion\":21,\"value\":true,\"variation\":0,\"trackEvents\":false},\"booking-offer-create\":{\"version\":2394,\"flagVersion\":16,\"value\":true,\"variation\":0,\"trackEvents\":false},\"cancellation-policies-bocm\":{\"version\":2394,\"flagVersion\":19,\"value\":true,\"variation\":0,\"trackEvents\":false},\"2fa-excluded-list\":{\"version\":2394,\"flagVersion\":131,\"value\":true,\"variation\":0,\"trackEvents\":false},\"enable-dynamic-pricing-modal-in-main\":{\"version\":2394,\"flagVersion\":9,\"value\":true,\"variation\":0,\"trackEvents\":false},\"vrbo-importer\":{\"version\":2394,\"flagVersion\":10,\"value\":true,\"variation\":0,\"trackEvents\":false},\"bocm-stay-rule\":{\"version\":2394,\"flagVersion\":6,\"value\":true,\"variation\":0,\"trackEvents\":false},\"booking-rule-check-in-time-frame\":{\"version\":2394,\"flagVersion\":4,\"value\":true,\"variation\":0,\"trackEvents\":false},\"seasonal-rate-on-new-calendar\":{\"version\":2394,\"flagVersion\":7,\"value\":true,\"variation\":0,\"trackEvents\":false},\"allow-move-mup-bookings\":{\"version\":2394,\"flagVersion\":13,\"value\":false,\"variation\":1,\"trackEvents\":false},\"external-calendar-bulk-resync\":{\"version\":2394,\"flagVersion\":3,\"value\":true,\"variation\":0,\"trackEvents\":false},\"airb-sign-up\":{\"version\":2394,\"flagVersion\":7,\"value\":true,\"variation\":0,\"trackEvents\":false},\"guest-check-ins\":{\"version\":2394,\"flagVersion\":14,\"value\":true,\"variation\":0,\"trackEvents\":false},\"enable-membership-deal\":{\"version\":2394,\"flagVersion\":12,\"value\":true,\"variation\":0,\"trackEvents\":false},\"disabled-import-bocm\":{\"version\":2394,\"flagVersion\":10,\"value\":false,\"variation\":1,\"trackEvents\":false},\"limit-split-payout-rule\":{\"version\":2394,\"flagVersion\":7,\"value\":{\"maxCollaborator\":2,\"maxConfiguration\":20,\"maxPayoutRule\":10},\"variation\":0,\"trackEvents\":false},\"airb-amenities\":{\"version\":2394,\"flagVersion\":9,\"value\":true,\"variation\":0,\"trackEvents\":false},\"hide-guest-registration-from-inside\":{\"version\":2394,\"flagVersion\":16,\"value\":true,\"variation\":0,\"trackEvents\":false},\"using-jounrney-id-param-for-shuftipro-verificaiton\":{\"version\":2394,\"flagVersion\":14,\"value\":true,\"variation\":0,\"trackEvents\":false},\"new-cleaning-automation\":{\"version\":2394,\"flagVersion\":7,\"value\":true,\"variation\":0,\"trackEvents\":false},\"disable-collaborator-notifications\":{\"version\":2394,\"flagVersion\":10,\"value\":false,\"variation\":1,\"trackEvents\":false},\"airb-checkout-instruction\":{\"version\":2394,\"flagVersion\":6,\"value\":true,\"variation\":0,\"trackEvents\":false},\"create-sc-offer-when-declined\":{\"version\":2394,\"flagVersion\":3,\"value\":true,\"variation\":0,\"trackEvents\":false},\"rate-preference-in-calendar\":{\"version\":2394,\"flagVersion\":9,\"value\":true,\"variation\":0,\"trackEvents\":false},\"show-daily-price-on-block-date-calendar\":{\"version\":2394,\"flagVersion\":7,\"value\":true,\"variation\":0,\"trackEvents\":false},\"remove-verify-phone-number-from-RTP-flow\":{\"version\":2394,\"flagVersion\":3,\"value\":true,\"variation\":0,\"trackEvents\":false},\"enable-switch-builder-version\":{\"version\":2394,\"flagVersion\":35,\"value\":false,\"variation\":1,\"trackEvents\":false},\"builder-room-ui-improvement\":{\"version\":2394,\"flagVersion\":8,\"value\":true,\"variation\":0,\"trackEvents\":false},\"store-payout-transaction-fee\":{\"version\":2394,\"flagVersion\":16,\"value\":true,\"variation\":0,\"trackEvents\":false},\"pet-fees\":{\"version\":2394,\"flagVersion\":6,\"value\":true,\"variation\":0,\"trackEvents\":false},\"react-transactions-page\":{\"version\":2394,\"flagVersion\":59,\"value\":true,\"variation\":0,\"trackEvents\":false},\"automate-dispute-closed\":{\"version\":2394,\"flagVersion\":8,\"value\":true,\"variation\":0,\"trackEvents\":false},\"rtb-sidebar-price-flag\":{\"version\":2394,\"flagVersion\":6,\"value\":true,\"variation\":0,\"trackEvents\":false},\"hide-common-checkin-details\":{\"version\":2394,\"flagVersion\":30,\"value\":true,\"variation\":0,\"trackEvents\":false},\"reportable-seller-exclusive-deleted-listings\":{\"version\":2394,\"flagVersion\":13,\"value\":false,\"variation\":1,\"trackEvents\":false},\"$schema\":1}"
+        }
+      ]
+    },
+    {
+      "origin": "https://app.hubspot.com",
+      "localStorage": [
+        {
+          "name": "hubspot-modern-theme",
+          "value": "{\"9184802\":\"light\"}"
+        }
+      ]
+    }
+  ]
+}

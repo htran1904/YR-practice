@@ -1,0 +1,65 @@
+- generic [active] [ref=e1]:
+  - generic [ref=e19]:
+    - generic [ref=e20]:
+      - generic [ref=e21]:
+        - generic [ref=e22]:
+          - link:
+            - /url: "#"
+        - generic [ref=e26] [cursor=pointer]:
+          - img [ref=e27]
+          - generic [ref=e29]: English
+      - generic [ref=e34]:
+        - text: 
+        - heading "Log in using your social media account" [level=4] [ref=e35]
+        - generic [ref=e37]:
+          - generic [ref=e39] [cursor=pointer]:
+            - img [ref=e40]
+            - text: Facebook
+          - generic [ref=e42] [cursor=pointer]:
+            - img [ref=e43]
+            - text: Google
+        - heading "or log in using your email" [level=5] [ref=e45]
+        - generic [ref=e46]:
+          - generic [ref=e48]: Email
+          - generic [ref=e51]:
+            - textbox "Email address" [ref=e53]: canh.pham01@your.rentals
+            - generic [ref=e85]: 
+        - generic [ref=e55]:
+          - generic [ref=e56]:
+            - generic [ref=e58]: Password
+            - link "Reset password" [ref=e59] [cursor=pointer]:
+              - /url: /forgot-password
+          - generic [ref=e62]:
+            - generic [ref=e63]:
+              - textbox "Password" [ref=e64]: Canh1997
+              - img [ref=e65] [cursor=pointer]
+            - text: 
+        - generic [ref=e68]:
+          - checkbox "Remember me for 30 days" [ref=e69]
+          - generic [ref=e70] [cursor=pointer]: Remember me for 30 days
+        - button "Log in" [ref=e71] [cursor=pointer]:
+          - strong [ref=e72]: Log in
+        - paragraph [ref=e75]: Don’t have a Your.Rentals account? Sign up
+        - paragraph [ref=e78]:
+          - generic [ref=e79]:
+            - text: Are you a collaborator? Click
+            - link "here" [ref=e80] [cursor=pointer]:
+              - /url: https://collaborator-dev.your.rentals/login
+            - text: instead
+    - paragraph [ref=e81]:
+      - text: Your.Rentals © 2026. All rights reserved.
+      - link "Privacy policy" [ref=e82] [cursor=pointer]:
+        - /url: http://articles.your.rentals/en/articles/1819152
+      - text: .
+  - generic [ref=e9]:
+    - paragraph [ref=e10]: We respect your privacy
+    - paragraph [ref=e11]:
+      - text: We use cookies to make your interactions with our website more meaningful, remember your settings and improve our services. Read more in our
+      - link "Privacy policy" [ref=e12] [cursor=pointer]:
+        - /url: https://articles.your.rentals/en/articles/1819152
+      - text: .
+    - generic [ref=e13]:
+      - button "Manage cookies" [ref=e14] [cursor=pointer]
+      - generic [ref=e15]:
+        - button "Reject all" [ref=e16] [cursor=pointer]
+        - button "Allow all" [ref=e17] [cursor=pointer]

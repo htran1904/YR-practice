@@ -1,0 +1,24 @@
+- generic [active] [ref=e1]:
+  - generic [ref=e2]:
+    - generic [ref=e4]:
+      - img [ref=e5]
+      - paragraph [ref=e6]: The page you are looking for is not here :(
+      - generic [ref=e7]: Please go back and try again or contact support.
+      - paragraph [ref=e8]
+    - paragraph [ref=e9]:
+      - text: Your.Rentals © 2026. All rights reserved.
+      - link "Privacy policy" [ref=e10] [cursor=pointer]:
+        - /url: http://articles.your.rentals/en/articles/1819152
+      - text: .
+  - generic [ref=e11]:
+    - paragraph [ref=e12]: We respect your privacy
+    - paragraph [ref=e13]:
+      - text: We use cookies to make your interactions with our website more meaningful, remember your settings and improve our services. Read more in our
+      - link "Privacy policy" [ref=e14] [cursor=pointer]:
+        - /url: https://articles.your.rentals/en/articles/1819152
+      - text: .
+    - generic [ref=e15]:
+      - button "Manage cookies" [ref=e16] [cursor=pointer]
+      - generic [ref=e17]:
+        - button "Reject all" [ref=e18] [cursor=pointer]
+        - button "Allow all" [ref=e19] [cursor=pointer]

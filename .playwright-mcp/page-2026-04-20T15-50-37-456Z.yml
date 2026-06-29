@@ -1,0 +1,217 @@
+- generic [active] [ref=e1]:
+  - generic [ref=e19]:
+    - generic [ref=e24]:
+      - img [ref=e26]
+      - generic [ref=e28]:
+        - text: Your payouts are on hold due to missing tax information.
+        - link "Complete now." [ref=e29] [cursor=pointer]:
+          - /url: /tax-information
+    - banner [ref=e30]:
+      - generic [ref=e31]:
+        - text:                                                                                                                                                                                                  
+        - generic [ref=e32]:
+          - text: 
+          - link [ref=e34] [cursor=pointer]:
+            - /url: /dashboard
+        - navigation [ref=e35]:
+          - list [ref=e36]:
+            - listitem [ref=e37]:
+              - link "Dashboard" [ref=e38] [cursor=pointer]:
+                - /url: /dashboard
+            - listitem [ref=e39]:
+              - generic [ref=e40] [cursor=pointer]:
+                - generic [ref=e43]: Guests
+                - generic [ref=e44]: 
+            - listitem [ref=e45]:
+              - link "Listings" [ref=e46] [cursor=pointer]:
+                - /url: /listings
+            - listitem [ref=e47]:
+              - link "Calendars" [ref=e48] [cursor=pointer]:
+                - /url: /calendar
+            - listitem [ref=e49]:
+              - generic [ref=e50] [cursor=pointer]:
+                - generic [ref=e52]: Channels
+                - generic [ref=e53]: 
+              - generic [ref=e211]:
+                - list:
+                  - listitem [ref=e212]:
+                    - link "Channel Manager" [ref=e213] [cursor=pointer]:
+                      - /url: /channel-manager/overview
+                  - listitem [ref=e214]:
+                    - link "Airbnb Connections" [ref=e215] [cursor=pointer]:
+                      - /url: /import/select-channel?saleChannelId=AIRB&mode=connection
+                    - generic [ref=e216] [cursor=pointer]: New
+            - listitem [ref=e54]:
+              - link "Bookings" [ref=e55] [cursor=pointer]:
+                - /url: /bookings
+            - listitem [ref=e56]:
+              - link "Reports New" [ref=e57] [cursor=pointer]:
+                - /url: /reports/overview
+                - text: Reports
+                - generic [ref=e58]: New
+            - listitem [ref=e59]:
+              - generic [ref=e60] [cursor=pointer]:
+                - generic [ref=e61]: Tools
+                - generic [ref=e62]: 
+        - generic [ref=e63]:
+          - generic [ref=e64]:
+            - generic [ref=e65] [cursor=pointer]: 9+
+            - link "":
+              - /url: "#"
+              - generic [ref=e66] [cursor=pointer]: 
+          - generic [ref=e67] [cursor=pointer]:
+            - generic [ref=e68]:
+              - paragraph [ref=e69]: Canh Pham Organisatio
+              - paragraph [ref=e70]: Canh Company
+            - generic [ref=e71]: 
+          - generic [ref=e73]:
+            - link [ref=e74] [cursor=pointer]:
+              - /url: "#"
+              - img [ref=e75]
+            - generic [ref=e76]: 
+          - generic: 
+          - text: 
+    - main [ref=e81]:
+      - generic [ref=e83]:
+        - generic [ref=e84]:
+          - generic [ref=e85]:
+            - generic [ref=e86]: Dashboard
+            - generic [ref=e87]: Monday 20 Apr, 2026.
+          - generic [ref=e89] [cursor=pointer]: Give feedback
+        - generic [ref=e90]:
+          - generic [ref=e91]: Required actions
+          - link "Missing tax information Your payouts are on hold due to missing DAC7 tax information." [ref=e93] [cursor=pointer]:
+            - /url: /tax-information
+            - generic [ref=e94]:
+              - img [ref=e96]
+              - generic [ref=e98]:
+                - generic [ref=e99]: Missing tax information
+                - generic [ref=e100]: Your payouts are on hold due to missing DAC7 tax information.
+              - img [ref=e102]
+        - generic [ref=e104]:
+          - generic [ref=e105]:
+            - generic [ref=e106]:
+              - generic [ref=e107]:
+                - generic [ref=e108]: Today’s overview
+                - generic [ref=e109]: (20 Apr, UTC+07:00)
+              - generic [ref=e110]:
+                - generic [ref=e111]:
+                  - button [disabled]:
+                    - img
+                  - generic [ref=e112]:
+                    - generic [ref=e113]: Check-ins today
+                    - generic [ref=e114]: "0"
+                - generic [ref=e115]:
+                  - button [disabled]:
+                    - img
+                  - generic [ref=e116]:
+                    - generic [ref=e117]: Checkouts today
+                    - generic [ref=e118]: "1"
+                - generic [ref=e119]:
+                  - button [disabled]:
+                    - img
+                  - generic [ref=e120]:
+                    - generic [ref=e121]: Currently staying
+                    - generic [ref=e122]: "0"
+            - generic [ref=e123]:
+              - generic [ref=e124]:
+                - generic [ref=e125]: Bookings
+                - link "View all bookings" [ref=e126] [cursor=pointer]:
+                  - /url: /bookings
+              - tablist [ref=e129]:
+                - tab "Arriving soon" [selected] [ref=e130] [cursor=pointer]:
+                  - generic [ref=e131]: Arriving soon
+                - tab "Check-outs" [ref=e132] [cursor=pointer]:
+                  - generic [ref=e133]: Check-outs
+                - tab "Currently staying" [ref=e134] [cursor=pointer]:
+                  - generic [ref=e135]: Currently staying
+                - tab "Upcoming" [ref=e136] [cursor=pointer]:
+                  - generic [ref=e137]: Upcoming
+              - link "Canh Pham Tomorrow 11:00 AM 2 guests · (390818) ac" [ref=e140] [cursor=pointer]:
+                - /url: /bookings/Y5T4ZJ
+                - generic [ref=e141]:
+                  - generic [ref=e142]:
+                    - generic [ref=e143]: Canh Pham
+                    - generic [ref=e144]: Tomorrow 11:00 AM
+                    - generic [ref=e145]: 2 guests · (390818) ac
+                  - figure [ref=e147]:
+                    - img [ref=e149]
+            - generic [ref=e150]:
+              - generic [ref=e151]:
+                - generic [ref=e152]:
+                  - generic [ref=e153]: Performance
+                  - generic [ref=e154]: Last 30 days
+                - link "View all reports" [ref=e155] [cursor=pointer]:
+                  - /url: /reports/overview
+              - generic [ref=e156]:
+                - generic [ref=e157]:
+                  - generic [ref=e158]: Total rental revenue
+                  - generic [ref=e159]: £2,919
+                - generic [ref=e160]:
+                  - generic [ref=e161]: Avg. occupancy rate
+                  - generic [ref=e162]: 2%
+                - generic [ref=e163]:
+                  - generic [ref=e164]: Total nights booked
+                  - generic [ref=e165]: "17"
+          - generic [ref=e166]:
+            - generic [ref=e167]:
+              - generic [ref=e168]: Activity
+              - generic [ref=e169]:
+                - link "9+ unread messages" [ref=e170] [cursor=pointer]:
+                  - /url: /conversations?statuses=unread
+                  - generic [ref=e171]:
+                    - button:
+                      - img
+                    - generic [ref=e172]: 9+ unread messages
+                    - img [ref=e173]
+                - link "All tasks" [ref=e175] [cursor=pointer]:
+                  - /url: /cleaning-automation
+                  - generic [ref=e176]:
+                    - button:
+                      - img
+                    - generic [ref=e177]: All tasks
+                    - img [ref=e178]
+            - generic [ref=e180]:
+              - generic [ref=e181]: Growth tips for your listings
+              - generic [ref=e183]:
+                - img [ref=e185]
+                - generic [ref=e187]:
+                  - generic [ref=e188]: Convert more guests with discounts
+                  - generic [ref=e189]: Offer special rates for early, last-minute, or mobile bookings to stay competitive.
+                - link "Set up discounts" [ref=e191] [cursor=pointer]:
+                  - /url: https://goto.your.rentals/v2/486708/builder/discounts
+                  - generic [ref=e193]: Set up discounts
+              - generic [ref=e194]:
+                - generic [ref=e195] [cursor=pointer]:
+                  - generic [ref=e196]: More ways to improve
+                  - img [ref=e197]
+                - generic [ref=e203]:
+                  - generic [ref=e204]:
+                    - generic [ref=e205]: Stand out to more Booking.com guests
+                    - generic [ref=e206]: Unlock priority search placement for 5 of your eligible listings on Booking.com.
+                  - link "Join Preferred Partner" [ref=e208] [cursor=pointer]:
+                    - /url: https://goto.your.rentals/channel-manager/129966/specific-settings/BOCM?#DISCOUNTS
+  - generic [ref=e9]:
+    - paragraph [ref=e10]: We respect your privacy
+    - paragraph [ref=e11]:
+      - text: We use cookies to make your interactions with our website more meaningful, remember your settings and improve our services. Read more in our
+      - link "Privacy policy" [ref=e12] [cursor=pointer]:
+        - /url: https://articles.your.rentals/en/articles/1819152
+      - text: .
+    - generic [ref=e13]:
+      - button "Manage cookies" [ref=e14] [cursor=pointer]
+      - generic [ref=e15]:
+        - button "Reject all" [ref=e16] [cursor=pointer]
+        - button "Allow all" [ref=e17] [cursor=pointer]
+  - region "Chat Widget" [ref=e209]:
+    - iframe [ref=e210]:
+      - generic [ref=f47e2]:
+        - generic [ref=f47e6]:
+          - button "Open live chat" [ref=f47e7]:
+            - img "Avatar of Alice" [ref=f47e13]
+            - paragraph [ref=f47e14]: Got any question? I'm happy to help.
+          - button "Close welcome page" [ref=f47e15]:
+            - img [ref=f47e17]
+        - button "Open live chat" [ref=f47e24]:
+          - img [ref=f47e27]
+          - img [ref=f47e34]
