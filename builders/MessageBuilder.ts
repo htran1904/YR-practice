@@ -61,12 +61,11 @@ export class MessageBuilder {
     return { ...this.data };
   }
 
-  static inquiry(): Message {
-    return new MessageBuilder()
-      .withStatus('inquiry')
-      .withContent('Hi, I have a question about availability for next month.')
-      .build();
-  }
+ static inquiry: Message = new MessageBuilder()
+  .withStatus('inquiry')
+  .withContent('Hi, I have a question about availability for next month.')
+  .build();
+  
 
   static bookingRequest(): Message {
     return new MessageBuilder()

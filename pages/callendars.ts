@@ -3,7 +3,6 @@ import { BasePage } from '../pages/basePage';
 import { formattedDateisClicked, formattedDateToClick, formattedDateToday } from '../utils/date';
 
 export class CalendarsPage extends BasePage {
-  page: Page;
 
   private createEventButton;
   private eventNameInput;
@@ -11,7 +10,7 @@ export class CalendarsPage extends BasePage {
 
   constructor(page: Page) {
     super(page);
-    this.page = page;
+    // this.page = page;
 
     this.createEventButton = page.getByRole('button', { name: 'Create event' });
     this.eventNameInput = page.getByLabel('Name');

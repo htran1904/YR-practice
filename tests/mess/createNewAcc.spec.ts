@@ -1,5 +1,6 @@
 import { test } from '../../fixtures';
 import { propertyManagerData } from '../../utils/data';
+import {MessageBuilder} from '../../builders/MessageBuilder';
 
 test('Verify Create New Account Modal', async ({managerPage}) => {
   await managerPage.gotoManager();
@@ -10,4 +11,10 @@ test('Verify Create New Account Modal', async ({managerPage}) => {
   await managerPage.fillCountryOfForm('Vietnam');
   await managerPage.fillPreferredCurrencyForm('EUR (Euro)');
   await managerPage.clickCreateNewAccSubmit();
+  const newMess = new MessageBuilder()
+    .withStatus('past_booking') 
+      .withContent('Thank you for a wonderful stay!')
+      .asRead()
+      .daysAgo(10)
+      .build();
 });
